@@ -1,4 +1,6 @@
 
+[ 1인 개발 ]  
+
 WEB
 - 포트폴리오(Portfolio) - 2021.08 ~  
 https://kwonputer.com 
@@ -29,3 +31,9 @@ https://drive.google.com/file/d/1wP5Pn51rAt36hJuqY7ceg72GV0OxuKua/view?usp=shari
 Android
 - 일상 속 MBTI - 2021.09.02  
 https://play.google.com/store/apps/details?id=com.kwon.mbti_community
+
+[ 협업 개발 ]  
+
+Android
+- 주차 관리 앱 - 2021.05 ~ 2021.08  
+( 출시 후 업로드 예정 )
