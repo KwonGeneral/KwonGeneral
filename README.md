@@ -8,7 +8,7 @@ https://kwonputer.com
 - 우연(Wooyeon) - 2021.03 ~ 2021.05  
 https://wooyeon.link/
 
-GUI Program
+Software
 - CDR (Content Disarm & Reconstruction : 콘텐츠 악성코드 무해화) - 2020.12.22  
 https://drive.google.com/file/d/1aSeFgsLi3B3YMOy46QvDlF2OyMImemI0/view?usp=sharing
 https://drive.google.com/file/d/1JBJmczYtLSGZ7ZU-bjiCV0iZREc2N-vT/view?usp=sharing
