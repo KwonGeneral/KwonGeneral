@@ -38,7 +38,7 @@ Android
 - 일상 속 MBTI - 2021.09.02  
 https://play.google.com/store/apps/details?id=com.kwon.mbti_community
 
-- 애니애니(AnyAni) - 2021.10
+- 애니애니(AnyAni) - 2021.10  
 https://play.google.com/store/apps/details?id=com.kwon.anyani
 
 [ 협업 개발 ]  
