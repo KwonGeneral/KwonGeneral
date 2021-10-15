@@ -1,15 +1,16 @@
+# <br>
+###### Email : thtm9020@gmail.com
+###### Blog : https://kwonputer.tistory.com/
+###### Portfolio : https://kwonputer.com/
+###### <br>
 
-
-## [ 1인 개발 ] :runner:  
+## [ 1인 개발 ( Personal Project ) ] :runner:  
 
 ### WEB
 - 포트폴리오(Portfolio) - 2021.09 ~ Now  
 https://kwonputer.com 
 
-- 우연(Wooyeon) - 2021.03 ~ 2021.05  
-https://wooyeon.link/
-
-- 애니애니(AnyAni_React) - 2021.10  
+- 애니애니(AnyAni React) - 2021.10  
 https://kwonputer.com/ani/anyani/
   
   <br>    
@@ -45,8 +46,11 @@ https://play.google.com/store/apps/details?id=com.kwon.mbti_community
 https://play.google.com/store/apps/details?id=com.kwon.anyani  
   
   <br>    
-## [ 협업 개발 ] :two_men_holding_hands:  
+## [ 협업 개발 ( Work Project ) ] :two_men_holding_hands:  
 
 ### Android
+- 우연(Wooyeon) - 2021.03 ~ 2021.05  
+https://wooyeon.link/
+
 - 주차 관리 앱 - 2021.05 ~ 2021.08  
 ( 출시 후 업로드 예정 )
