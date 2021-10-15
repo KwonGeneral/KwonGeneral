@@ -1,5 +1,5 @@
 
-  [ 1인 개발 ]  
+[ 1인 개발 ]  
 
 WEB
 - 포트폴리오(Portfolio) - 2021.09 ~ Now  
@@ -41,7 +41,7 @@ https://play.google.com/store/apps/details?id=com.kwon.mbti_community
 - 애니애니(AnyAni) - 2021.10  
 https://play.google.com/store/apps/details?id=com.kwon.anyani  
 
-  [ 협업 개발 ]  
+[ 협업 개발 ]  
 
 Android
 - 주차 관리 앱 - 2021.05 ~ 2021.08  
