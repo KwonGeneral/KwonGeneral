@@ -2,7 +2,7 @@
 [ 1인 개발 ]  
 
 WEB
-- 포트폴리오(Portfolio) - 2021.08 ~  
+- 포트폴리오(Portfolio) - 2021.09 ~  
 https://kwonputer.com 
 
 - 우연(Wooyeon) - 2021.03 ~ 2021.05  
